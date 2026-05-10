@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://self-hosted-vs-saas-monitoring-in-2026-36vdjbuv3.vercel.app/sitemap.xml
